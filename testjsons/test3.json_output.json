@@ -1,0 +1,67 @@
+{
+    "results": [
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/4-amazing-photography-lake.preview.jpg",
+            "classes": [
+                {
+                    "class": "train",
+                    "confidence": "0.779259"
+                }
+            ]
+        },
+        {
+            "url": ".jpg",
+            "error": "MissingSchema"
+        },
+        {
+            "url": "htp://webneel.com/daily/sites/default/files/images/daily/09-2013/6-amazing-photography-ship.preview.jpg",
+            "error": "UnknownError"
+        },
+        {
+            "url": "webneel.com/daily/sites/default/files/images/daily/09-2013/7-amazing-photography-ship.preview.jpg",
+            "error": "MissingSchema"
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/ing-photo-living-human-brain.preview.jpg",
+            "error": "NotFound"
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/11-amazing-photography-tracy-space-earch.preview.jpg",
+            "classes": [
+                {
+                    "class": "person",
+                    "confidence": "0.352123"
+                },
+                {
+                    "class": "person",
+                    "confidence": "0.268039"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/10-amazing-photography-space-shuttle-moon.jpg",
+            "classes": [
+                {
+                    "class": "frisbee",
+                    "confidence": "0.639827"
+                },
+                {
+                    "class": "car",
+                    "confidence": "0.367971"
+                },
+                {
+                    "class": "car",
+                    "confidence": "0.302676"
+                },
+                {
+                    "class": "car",
+                    "confidence": "0.246201"
+                },
+                {
+                    "class": "car",
+                    "confidence": "0.225426"
+                }
+            ]
+        }
+    ]
+}

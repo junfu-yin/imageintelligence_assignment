@@ -1,0 +1,278 @@
+{
+    "results": [
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/4-amazing-photography-lake.preview.jpg",
+            "classes": [
+                {
+                    "class": "train",
+                    "confidence": "0.779259"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/6-amazing-photography-ship.preview.jpg",
+            "classes": [
+                {
+                    "class": "fire hydrant",
+                    "confidence": "0.302056"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/7-amazing-photography-ship.preview.jpg",
+            "classes": ""
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/25-amazing-photo-living-human-brain.preview.jpg",
+            "classes": ""
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/11-amazing-photography-tracy-space-earch.preview.jpg",
+            "classes": [
+                {
+                    "class": "person",
+                    "confidence": "0.352123"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/10-amazing-photography-space-shuttle-moon.jpg",
+            "classes": [
+                {
+                    "class": "frisbee",
+                    "confidence": "0.639827"
+                },
+                {
+                    "class": "car",
+                    "confidence": "0.367971"
+                },
+                {
+                    "class": "car",
+                    "confidence": "0.302676"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/2-amazing-photography-clouds.preview.jpg",
+            "classes": ""
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/1-amazing-photography-parachute-jump.preview.jpg",
+            "classes": ""
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/3-amazing-photography-park.jpg",
+            "classes": [
+                {
+                    "class": "bench",
+                    "confidence": "0.938969"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/5-amazing-photography-sunrise.preview.jpg",
+            "classes": [
+                {
+                    "class": "umbrella",
+                    "confidence": "0.471661"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/8-amazing-photography-train-snow.preview.jpg",
+            "classes": ""
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/9-amazing-photography-hurricane-space.preview.jpg",
+            "classes": [
+                {
+                    "class": "teddy bear",
+                    "confidence": "0.400441"
+                },
+                {
+                    "class": "bed",
+                    "confidence": "0.388885"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/12-creative-photography-woman.preview.jpg",
+            "classes": [
+                {
+                    "class": "wine glass",
+                    "confidence": "0.924975"
+                },
+                {
+                    "class": "person",
+                    "confidence": "0.449446"
+                },
+                {
+                    "class": "vase",
+                    "confidence": "0.30958"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/14-creative-photography-woman.jpg",
+            "classes": [
+                {
+                    "class": "person",
+                    "confidence": "0.913592"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/16-creative-photography-portrait.jpg",
+            "classes": [
+                {
+                    "class": "person",
+                    "confidence": "0.914325"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/17-most-amazing-photo-hight-sea-tide.preview.jpg",
+            "classes": ""
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/18-amazing-photos-sea-wave.jpg",
+            "classes": ""
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/19-amazing-photography-woman-hair-splashing.preview.jpg",
+            "classes": [
+                {
+                    "class": "person",
+                    "confidence": "0.811574"
+                },
+                {
+                    "class": "person",
+                    "confidence": "0.327201"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/20-amazing-photography-woman-splashing-hair.preview.jpg",
+            "classes": [
+                {
+                    "class": "bird",
+                    "confidence": "0.427455"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/21-most-amazing-photo-fishing-net.preview.jpg",
+            "classes": [
+                {
+                    "class": "person",
+                    "confidence": "0.903774"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/22-most-amazing-photos-sunrise.preview.jpg",
+            "classes": ""
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/23-most-amazing-photo-tree.jpg",
+            "classes": ""
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/24-amazing-photography-naobab-tree.jpg",
+            "classes": [
+                {
+                    "class": "umbrella",
+                    "confidence": "0.563786"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/amazing-photo.preview.jpg",
+            "classes": [
+                {
+                    "class": "bicycle",
+                    "confidence": "0.805792"
+                },
+                {
+                    "class": "bicycle",
+                    "confidence": "0.533186"
+                },
+                {
+                    "class": "person",
+                    "confidence": "0.464948"
+                },
+                {
+                    "class": "person",
+                    "confidence": "0.313873"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/27-amazing-photo-dew-drops-macro.jpg",
+            "classes": [
+                {
+                    "class": "car",
+                    "confidence": "0.407375"
+                },
+                {
+                    "class": "bird",
+                    "confidence": "0.401363"
+                },
+                {
+                    "class": "car",
+                    "confidence": "0.37948"
+                },
+                {
+                    "class": "car",
+                    "confidence": "0.349101"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/28-amazing-photo-water.preview.jpg",
+            "classes": ""
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/29-amazing-photos-cat.jpg",
+            "classes": [
+                {
+                    "class": "person",
+                    "confidence": "0.860677"
+                },
+                {
+                    "class": "bear",
+                    "confidence": "0.802745"
+                },
+                {
+                    "class": "laptop",
+                    "confidence": "0.752901"
+                },
+                {
+                    "class": "laptop",
+                    "confidence": "0.591937"
+                },
+                {
+                    "class": "laptop",
+                    "confidence": "0.518716"
+                },
+                {
+                    "class": "bench",
+                    "confidence": "0.515731"
+                },
+                {
+                    "class": "cat",
+                    "confidence": "0.363171"
+                }
+            ]
+        },
+        {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/09-2013/30-amazing-photos-motion-blur-night.preview.jpg",
+            "classes": [
+                {
+                    "class": "scissors",
+                    "confidence": "0.504482"
+                }
+            ]
+        }
+    ]
+}
